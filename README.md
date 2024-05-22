@@ -1,11 +1,11 @@
-# AI Virtual Receptionist: A Volvo Students’ Project
+# Receptionata - AI Virtual Receptionist
 <div align="center">
     <img src="https://github.com/antoniczapski/receptionata/assets/150927210/19e27c08-1f50-40d3-8924-f1049c212077" width="400">
 </div>
 
 ## Overview
 
-In collaboration with Volvo, this innovative project is designed to revolutionize how administrative tasks, such as scheduling meetings and retrieving company-specific information, are managed. By harnessing the capabilities of Large Language Models (LLMs), including state-of-the-art techniques like Retrieval-Augmented Generation (RAG), and other advanced AI methodologies, we aim to create an AI Virtual Receptionist that exemplifies the next step in digital assistance.
+This innovative project is designed to revolutionize how administrative tasks, such as scheduling meetings and retrieving company-specific information, are managed. By harnessing the capabilities of Large Language Models (LLMs), including state-of-the-art techniques like Retrieval-Augmented Generation (RAG), and other advanced AI methodologies, we aim to create an AI Virtual Receptionist that exemplifies the next step in digital assistance.
 
 ## Objective
 
@@ -38,4 +38,4 @@ Currently, in its initial stages, this project represents a collaboration betwee
 
 ## Contact
 
-For more information, to provide feedback, or to get involved, please contact us at 317214@uwr.edu.pl
+For more information, to provide feedback, or to get involved, please contact us at anujjhunjhunwala98@gmail.com
